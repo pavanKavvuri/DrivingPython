@@ -7,6 +7,7 @@ print (15*5)
 
 
 print (9*52)
+print (20+30)
 
 
 print (8*5)
